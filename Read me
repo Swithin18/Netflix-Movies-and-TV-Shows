@@ -1,0 +1,12 @@
+Netflix-Data-Analysis/
+│
+├── README.md
+├── data/
+│   └── netflix_titles.csv
+├── dashboards/
+│   ├── netflix_movies_vs_tvshows.png
+│   ├── netflix_top_countries.png
+│   ├── netflix_yearly_releases.png
+│   └── netflix_genre_frequency.png
+└── insights/
+    └── business_findings.md
